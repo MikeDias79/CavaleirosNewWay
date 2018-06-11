@@ -10,3 +10,8 @@
 
 ##Não esquecer:
 - Executar o arquivo newway.sql no MySQL.
+##Instruções para execução da API:
+- http://localhost/Cavaleiros/api.php?id=XX
+- Caso não tenha o ID será apresentado um erro
+- Caso o ID estejaem branco será apresentado um erro tambem
+- Informando um ID válido, todas as informações serão mostradas em JSON
